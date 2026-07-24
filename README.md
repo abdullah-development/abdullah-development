@@ -36,6 +36,20 @@
 
 ---
 
+### ⭐ Recommended Reads & Tools
+
+Repos I lean on for system design, DevOps, and full-stack work:
+
+| Repo | What it's for |
+|------|---------------|
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Large-scale system design & interview prep |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux · K8s · Terraform · AWS DevOps practice |
+| [create-t3-app](https://github.com/t3-oss/create-t3-app) | Type-safe full-stack Next.js starter |
+| [argo-cd](https://github.com/argoproj/argo-cd) | GitOps continuous delivery for Kubernetes |
+| [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | Beginner-friendly OSS to contribute to |
+| [awesome](https://github.com/sindresorhus/awesome) | The master index of awesome lists |
+
+
 ### 🚀 Currently Building / Roadmap
 
 Three flagship builds — one per discipline I work in:
