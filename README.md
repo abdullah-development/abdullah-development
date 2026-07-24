@@ -50,15 +50,16 @@ Three flagship builds — one per discipline I work in:
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullah-development&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-development&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img src="https://img.shields.io/badge/Total%20Commits-5000-58A6FF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-98-F7DF1E?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-development&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://img.shields.io/badge/Contributions-3500-2EA043?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Streak-700-FF6B6B?style=for-the-badge&logo=github" />
 </p>
 
 ---
